@@ -1,0 +1,9 @@
+"Numero de pontos em x        =" 50	
+"Numero de pontos em y        =" 50
+"Numero maximo de iteracoes   =" 19000		
+"Difusividade do material     =" 1.14D-4		
+"Condicao de contorno em (x=0)=" 300.0D0			
+"Condicao inicial             =" 300.0D0		
+"Numero de CFL                =" 0.2D0	
+"Precisao                     =" 1.0D-7
+"Frequencia de saida          =" 200
